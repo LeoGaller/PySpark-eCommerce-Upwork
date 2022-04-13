@@ -19,7 +19,7 @@ services:
       - 4040:4040
     volumes:
       - /opt/workspace:/opt/workspace
-      - /home/leogaller/PycharmProjects/PySpark-eCommerce-Upworks:/home/jovyan/work
+      - /home/leogaller/PycharmProjects/PySpark-eCommerce-Upwork:/home/jovyan/work
   spark-master:
     image: docker.io/bitnami/spark:3.2.1
     container_name: spark
