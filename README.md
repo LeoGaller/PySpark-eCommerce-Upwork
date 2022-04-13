@@ -1,5 +1,5 @@
 # gerda-ecommerce-pyspark
-##This is the repository for the development of the activities communicated by Upwork.
+## This is the repository for the development of the activities communicated by Upwork.
 
 ---
 
@@ -12,10 +12,12 @@ This data was made available by REES46 Marketing Platform (https://rees46.com/).
 The information about this data can be found at https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
 
 ### File structure
-<img src="/home/leogaller/Documentos/freela/upwork/gerda-ecommerce-pyspark/img/file-structure.png"/>
+
+![](./img/file-structure.png)
 
 ### Event types
-<img src="/home/leogaller/Documentos/freela/upwork/gerda-ecommerce-pyspark/img/event-types.png"/>
+
+![](./img/event-types.png)
 
 ### Activities to be performed
 * Answer the following questions:
