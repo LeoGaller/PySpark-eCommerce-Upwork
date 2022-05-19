@@ -1,6 +1,6 @@
 # -----------------------------------------------------------------------
 # @Data Engineer: Leonardo Galler - leolacerdagaller@live.com
-# @Client: Gerda Berentaite
+# @Client:
 # @note: Create a Spark Cluster on docker
 # @info: This YML file is based on the following YMLs
 #   - https://raw.githubusercontent.com/cluster-apps-on-docker/spark-standalone-cluster-on-docker/master/docker-compose.yml
